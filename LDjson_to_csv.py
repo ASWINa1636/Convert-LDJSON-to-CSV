@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 # Define the file path correctly
-file_path = r"D:\aI_resuma\marketing_sample_for_indeed_co_in-indeed_co_in_job_data__20210701_20210930__30k_data.ldjson\marketing_sample_for_indeed_co_in-indeed_co_in_job_data__20210701_20210930__30k_data.ldjson"
+file_path = r"D:\your_path_location.ldjson"
 
 # Read the LDJSON file line by line
 data_list = []
